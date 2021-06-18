@@ -1,5 +1,5 @@
 # Windows 11 Taskbar Size
-### Personalize your taskbar in developer version of your Windows 11!
+### Personalize taskbar in developer version of your Windows 11!
 
 ![Screenshot_1](https://user-images.githubusercontent.com/38760591/122463200-fc15fc80-cfbd-11eb-813f-fc7c4cdced5d.png)
 
